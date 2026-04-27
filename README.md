@@ -72,23 +72,6 @@ npm run db:studio  # Open Prisma Studio database viewer
 npm run db:seed    # Add sample data
 ```
 
-## GitHub Upload
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Graduate Career Hub"
-git branch -M main
-git remote add origin https://github.com/junaidmir1212/graduate-career-hub.git
-git push -u origin main
-```
-
-## Vercel Deployment Note
-
-This project runs locally with SQLite for easy testing. For Vercel production deployment, use PostgreSQL through Neon, Supabase, Railway, or Vercel Postgres.
-
-Read `DEPLOYMENT_GUIDE.md` before deploying.
-
 ## Portfolio Positioning
 
 This project demonstrates:
