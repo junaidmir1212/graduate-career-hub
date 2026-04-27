@@ -34,7 +34,8 @@ async function main() {
         title: 'Graduate Career Hub',
         category: 'Full-Stack Web Application',
         description: 'Career management system for tracking graduate applications, portfolio projects and technical skills using a full-stack architecture.',
-        techStack: 'Next.js, TypeScript, Prisma, SQLite/PostgreSQL'
+        techStack: 'Next.js, TypeScript, Prisma, SQLite/PostgreSQL',
+        githubUrl: 'https://github.com/junaidmir1212/graduate-career-hub.git'
       }
     ]
   });
